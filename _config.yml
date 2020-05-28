@@ -1,16 +1,16 @@
 actors:
-  alice:
+  yaji:
     image_url: /images/actors/alice.png
-    name: alice
+    name: yaji
     url: http://sns.example.com/alice
-  bob:
+  naohi:
     image_url: /images/actors/bob.png
-    name: bob
+    name: naohi
     url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+author: naohi
+description: 世の中の色々なことをふむふむ聞くポッドキャスト
+description_long: 世の中の色々なことをふむふむ聞くポッドキャスト
+email: fm.fumufumu@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -20,14 +20,14 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: fumufumufm
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: fm
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: ふむふむfm
+url: https://fumufumufm.github.io/

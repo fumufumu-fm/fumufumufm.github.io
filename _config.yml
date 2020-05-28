@@ -6,7 +6,7 @@ actors:
   naohi:
     image_url: /images/actors/bob.png
     name: naohi
-    url: http://sns.example.com/bob
+    url: https://twitter.com/fumufumu_fm?s=20
 author: naohi
 description: 世の中の色々なことをふむふむ聞くポッドキャスト
 description_long: 世の中の色々なことをふむふむ聞くポッドキャスト
@@ -30,4 +30,4 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: ふむふむfm
-url: https://fumufumufm.github.io/
+url: https://fumufumu-fm.github.io/fumufumufm/

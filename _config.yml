@@ -2,12 +2,12 @@ actors:
   yaji:
     image_url: /images/actors/alice.png
     name: yaji
-    url: http://sns.example.com/alice
-  naohi:
-    image_url: /images/actors/bob.png
-    name: naohi
+    url: 
+  naohee:
+    image_url: /images/actors/naohee.JPG
+    name: naohee
     url: https://twitter.com/fumufumu_fm?s=20
-author: naohi
+author: naohee
 description: 世の中の色々なことをふむふむ聞くポッドキャスト
 description_long: 世の中の色々なことをふむふむ聞くポッドキャスト
 email: fm.fumufumu@gmail.com

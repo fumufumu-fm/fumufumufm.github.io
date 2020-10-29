@@ -1,7 +1,7 @@
 actors:
-  yaji:
-    image_url: /images/actors/alice.png
-    name: yaji
+  shaun:
+    image_url: /images/actors/shaun.png
+    name: shaun
     url: 
   naohee:
     image_url: /images/actors/naohee.JPG

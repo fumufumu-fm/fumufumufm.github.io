@@ -8,8 +8,8 @@ actors:
     name: naohee
     url: https://twitter.com/fumufumu_fm?s=20
 author: naohee
-description: 世の中の色々なことをふむふむ聞くポッドキャスト
-description_long: 世の中の色々なことをふむふむ聞くポッドキャスト
+description: 元官僚で現エンジニアのnaoheeと現役大学院生のshaunが、世の中のあれこれについて、ふむふむするpodcastです。毎回、最近興味をもって学んだことについて片方が紹介し、会話形式で理解を深めていきます。経済系の話題が多いです！
+description_long: 元官僚で現エンジニアのnaoheeと現役大学院生のshaunが、世の中のあれこれについて、ふむふむするpodcastです。毎回、最近興味をもって学んだことについて片方が紹介し、会話形式で理解を深めていきます。経済系の話題が多いです！
 email: fm.fumufumu@gmail.com
 exclude:
   - docker
@@ -20,9 +20,9 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: fumufumufm
-itunes_podcast_url:
-keywords: fm
+hashtag: ふむふむfm
+itunes_podcast_url: https://podcasts.apple.com/jp/podcast/%E3%81%B5%E3%82%80%E3%81%B5%E3%82%80fm/id1518594650
+keywords: economics
 language: ja
 markdown: kramdown
 permalink: /episode/:title
